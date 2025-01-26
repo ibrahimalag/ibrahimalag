@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello,
+My name is Ibrahim. I am a high school graduate, and the strongest subjects I studied in school were mathematics and computer science. I have read on social media about hacking incidents, and I have a great passion for protecting individuals and organizations from these attacks, as well as raising awareness. I am deeply passionate about safeguarding information and maintaining digital security for both organizations and individuals, while adhering to laws and regulations. I possess strong analytical skills and time management abilities. I am committed to developing my skills in programming and data analysis, in addition to enhancing my capabilities. Through my passion for technology and security, I believe I can contribute effectively to strengthening the security goals of organizations by creating innovative security solutions.
+
